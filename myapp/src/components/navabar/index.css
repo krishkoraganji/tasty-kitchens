@@ -1,0 +1,29 @@
+.logo{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+.logo h1{
+    font-size: 16px;
+    line-height: 24px;
+    font-family: dm sans;
+    font-style: italic;
+    color: #F7931E;
+}
+.logo img{
+height: 32px;
+width: 39px;
+}
+.navbar{
+    height: 64px;
+    width: 360px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #F8FAFC;
+    
+}
+.menu-button{
+    margin-right: 15px;
+    font-size: 24px;
+}

@@ -1,0 +1,56 @@
+.open-img{
+    height: 387px;
+    width: 387px;
+    border-radius: 249.94px;
+    left: 50px;
+    position: relative;
+    top: -42px;
+}
+.mobile-view{
+    width: 360px;
+    height: 640px;
+    overflow: hidden;
+    position: fixed;
+}
+form{
+    position: relative;
+    top: -110px;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+form h2{
+    font-family: DM Sans;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 32px;
+}
+.user-pass{
+    height: 74px;
+    width:312px;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 1%;
+    color: rgb(101, 89, 89);
+    margin-bottom: 15px;
+}
+.user-pass input{
+    height: 40px;
+    border: none;
+    width: 312px;
+    margin-top: 10px;
+    font-size: 22px;
+    background-color: silver;
+    color: black;
+}
+form input{
+    width: 312px;
+    height: 40px;
+    background-color: orange;
+    border: none;
+    font-size: 18px;
+    letter-spacing: 0.5px;
+    color: #ffffff;
+    border-radius: 5px;
+    margin-top: 15px;
+}
